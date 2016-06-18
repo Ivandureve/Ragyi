@@ -37,7 +37,7 @@ body {
 }
 
 .spacer {
-    padding: 100px;
+    padding: 30px;
 }
 
 .carousel-inner {
@@ -128,3 +128,62 @@ footer {
 .fa {
     color: #822FFD
 }
+
+/*=================contact====================*/
+.main-contact{
+ padding: 40px 0;
+}
+
+
+.contact-info p span{
+width:24px;
+height:24px;
+text-align:center;
+}
+.contact-info .fa{
+font-size:18px;
+vertical-align:middle;
+margin-right:20px;
+}
+
+.contact p{
+font-size:18px;
+margin:0;
+padding:0 0 0 0;
+}
+.contact a.fa{
+border-radius: 100%;
+-webkit-border-radius: 100%;
+-moz-border-radius: 100%;
+-ms-border-radius: 100%;
+-o-border-radius: 100%;
+border: 4px solid #7a7a7a;
+width: 60px;
+height: 60px;
+text-align: center;
+font-size: 36px;
+line-height: 53px;
+margin:20px;
+}
+
+.contact span{
+border-radius: 100%;
+-webkit-border-radius: 100%;
+-moz-border-radius: 100%;
+-ms-border-radius: 100%;
+-o-border-radius: 100%;
+border: 4px solid #7a7a7a;
+width: 60px;
+height: 60px;
+text-align: center;
+font-size: 36px;
+line-height: 53px;
+margin:20px;
+}
+
+.contact p a:hover{
+text-decoration:none;
+}
+
+
+/*=================end of contact====================*/
