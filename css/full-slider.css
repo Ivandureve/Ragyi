@@ -14,6 +14,9 @@ body {
     margin-top: 15px;
 }
 
+.vertical {
+}
+
 .colorme {
     color: black;
 }
@@ -64,7 +67,7 @@ body {
 .pp {
     height: 150px;
     border-radius: 100%;
-    border: 2px solid #822FFD;
+    border: 2px solid #8D2678;
 }
 
 .pp:hover {
@@ -96,14 +99,14 @@ footer {
     left: 40%;
 }
 .service_pic img{
-    border: 10px solid #822FFD;
+    border: 10px solid #8D2678;
     border-radius: 110px;
     -webkit-border-radius: 110px;
     -moz-border-radius: 110px;
     -o-border-radius: 110px;
 }
 .service_list{
-    background: #822FFD;
+    background: #8D2678;
     padding: 12% 4% 4% 4%;
     text-align: center;
     margin-top: 12%;
@@ -126,7 +129,7 @@ footer {
 }
 
 .fa {
-    color: #822FFD
+    color: #8D2678
 }
 
 /*=================contact====================*/
